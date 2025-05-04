@@ -1,0 +1,15 @@
+#sixieme{
+	padding-top:20px;
+	text-align:center;
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	align-content:center;
+	height:1000px;
+	overflow:hidden;
+}
+
+#sixieme div a{
+	text-decoration:none;
+	color:darkslategray;
+}

@@ -1,0 +1,27 @@
+#menu{
+	width:100%;
+	height:38px;
+	text-align:center;
+	background:khaki;
+	color:darkslategray;
+	overflow:hidden;
+}
+
+#menu span{
+	cursor:pointer;
+	width:150px;
+	padding:20px;
+	background:khaki;
+	border-right:2px solid black;
+	border-left:2px solid black;
+}
+
+#menu span:hover{
+	background:darkslategray;
+	color:khaki;
+}
+
+
+#menu span:nth-child(2){
+	margin-left:-2px;
+}

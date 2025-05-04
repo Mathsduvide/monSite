@@ -1,0 +1,49 @@
+#Activite{
+	width:150px;
+	}
+
+.big{
+	height:250px;
+}
+
+.small{
+	height:150px;
+}
+
+#Activite a{
+	text-decoration:none;
+	color:darkslategray;
+	height:100% !important;
+}
+
+#Activite a img{
+	width:150px;
+	height:100%;
+}
+
+
+#Activite a{
+	border:10px solid white;
+	display:block;
+	height:150px;
+}
+
+#Activite a div{
+	margin-top:-134px;
+	height:150px;
+}
+
+#Activite a div p{
+	position:absolute;
+	padding:10px;
+	width:120px;
+	height:85px;
+	margin-left:-65px;
+	background:rgba(0,0,0,0.7);
+	color:white;
+	display:none;
+}
+
+#Activite a:hover div p{
+	display:inline;
+}

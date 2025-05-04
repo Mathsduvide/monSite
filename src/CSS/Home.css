@@ -1,0 +1,19 @@
+#home{
+	margin-top:350px;
+	transform:translate(0,-50%);
+	text-align:center;
+}
+
+#home a{
+	border-radius:25%;
+	text-decoration:none;
+	color:black;
+	padding:30px;
+	margin:5px;
+	background-color:khaki;
+}
+
+#home a:hover{
+	color:white;
+	background:darkslategray;
+}
